@@ -1,6 +1,6 @@
-# bActix Web + MongoDB Authentication Example
+# Actix Web + MongoDB Authentication Example
 
-This repository is an example of an endpoint built with Actix Web and MongoDB, demonstrating user authentication and admin seeding. The project includes JWT authentication middleware, MongoDB connection handling, and routes for user signup and signin.
+This repository is an example of an endpoint built with Actix Web (Rust) and MongoDB, demonstrating user authentication and admin seeding. The project includes JWT authentication middleware, MongoDB connection handling, and routes for user signup and signin.
 
 ## Features:
 - MongoDB Integration
